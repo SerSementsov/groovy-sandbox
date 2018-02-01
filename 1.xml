@@ -1,0 +1,12 @@
+<report>
+  <file-name some-attribute="123">C:\so_products.sql</file-name>
+  <mandatory-params>
+    <symbols-count>2370</symbols-count>
+    <words-count>241</words-count>
+    <current-date>2017-09-07T18:02:45.514</current-date>
+  </mandatory-params>
+  <optional-params>
+    <string>attr_id</string>
+    <occurrences>11</occurrences>
+  </optional-params>
+</report>
